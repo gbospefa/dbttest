@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+    - name: Pefa_gbos
+      schema: dbo
+      tables:
+          - name: CASY_LAGERORTE
+          - name: CASY_LAGERBEWEGUNG
+          - name: DWH_DIM_StorageKind
+          - name: DWH_DIM_StorageSpecial
+          - name: DWH_DIM_StorageType
+          - name: DWH_DIM_STRUCT_Storage_Responsible
+          - name: Casy_LagerbewegungTop
+          
