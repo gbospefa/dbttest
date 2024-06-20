@@ -11,4 +11,7 @@ sources:
           - name: DWH_DIM_StorageType
           - name: DWH_DIM_STRUCT_Storage_Responsible
           - name: Casy_LagerbewegungTop
+          - name: casy_kpstamm
+          - name: casy_kststamm
+          
           
